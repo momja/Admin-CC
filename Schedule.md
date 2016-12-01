@@ -99,3 +99,27 @@ Meeting:
 - boolean values
 - sample problem (answer is D)
 - questions at end
+
+### 12/1
+
+Preparation:
+- snacks
+- computers
+
+Meeting:
+- Ask for money
+- Go through everyone's names again
+- Review
+  - first two lines (public class... static void)
+  - variables (int String)
+  - print statement
+  - if...else statement
+  - else if statement
+  - while loops
+- Arrays
+- For loops
+- Boolean values
+- Random numbers w/ if else
+  - FidoRandom challenge project
+- Error2 example (for sticker)
+- Functions
