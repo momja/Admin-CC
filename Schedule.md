@@ -123,3 +123,40 @@ Meeting:
   - FidoRandom challenge project
 - Error2 example (for sticker)
 - Functions
+
+### 12/5 - Review Day
+
+Preparation:
+- snacks
+- computers
+
+Meeting:
+- Speed round go through everyone's names
+- Reminder about money
+- Challenge Review
+- Error3 (First person done wins a sticker!)
+- Print out a grid of zero's using two for loops
+  - give them ten minutes
+  - then explain how to do it
+- Play [video](https://www.youtube.com/watch?v=L06uGnF4IpY) on arrays
+- GroceryList example
+  - must import java.util.Arrays
+  - Arrays.toString() function explained
+- GroceryList2 example
+  - .length is a method used to get the length of an object
+
+After:
+- Charge all computers and plug into the wall
+- Clean up snacks
+
+### 12/7
+Preparation:
+
+Meeting:
+
+### 12/8
+Preparation:
+
+Meeting:
+- Functions
+- FidoIncreasing Challenge Project

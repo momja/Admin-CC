@@ -8,4 +8,3 @@ Joey Thomas
 Benjamin Earles
 Sarah Moening
 Matthias Hare
-Jared Bock
