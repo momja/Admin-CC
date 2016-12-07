@@ -133,30 +133,50 @@ Preparation:
 Meeting:
 - Speed round go through everyone's names
 - Reminder about money
-- Challenge Review
+- Challenge Review Project
 - Error3 (First person done wins a sticker!)
 - Print out a grid of zero's using two for loops
   - give them ten minutes
   - then explain how to do it
-- Play [video](https://www.youtube.com/watch?v=L06uGnF4IpY) on arrays
-- GroceryList example
-  - must import java.util.Arrays
-  - Arrays.toString() function explained
-- GroceryList2 example
-  - .length is a method used to get the length of an object
 
 After:
 - Charge all computers and plug into the wall
 - Clean up snacks
 
 ### 12/7
-Preparation:
 
-Meeting:
+Preparation:
+- computers
+- snacks
+
+Meeting: finish by 7:50
+- textbook distribution
+- AP Test breakdown
+- Sample problem (answer is D)
+- Go in depth on vocabulary words in Types & Identifiers
+  - operators
+  - display the operators on the board, and show how they are used
+- Test them on some modulo problems
+  - 10 % 2 = 0
+  - 5 % 3 = 2
+  - 1045 % 2 = 1
+  - etc.
+- modulo(remainder) is useful when you want even or odd numbers
 
 ### 12/8
 Preparation:
 
 Meeting:
+- Reminder of $$
+- Talk about movie night
+- 5 minute recap
+- Repeat the grid with ZeroGridRandom
+- Play [video](https://www.youtube.com/watch?v=L06uGnF4IpY) on arrays
+- GroceryList example
+  - must import java.util.Arrays
+  - Arrays.toString() function explained
+- GroceryList2 example
+  - .length is a method used to get the length of an object
+- Finish with Kahoot game for stickers [here](https://play.kahoot.it/#/lobby?quizId=e0adb56a-b859-4bae-9470-97f1f3554c0c)
 - Functions
 - FidoIncreasing Challenge Project
