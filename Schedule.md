@@ -171,12 +171,21 @@ Meeting:
 - Talk about movie night
 - 5 minute recap
 - Repeat the grid with ZeroGridRandom
-- Play [video](https://www.youtube.com/watch?v=L06uGnF4IpY) on arrays
 - GroceryList example
   - must import java.util.Arrays
   - Arrays.toString() function explained
 - GroceryList2 example
   - .length is a method used to get the length of an object
 - Finish with Kahoot game for stickers [here](https://play.kahoot.it/#/lobby?quizId=e0adb56a-b859-4bae-9470-97f1f3554c0c)
+
+
+### 12/12
+
+Preparation:
+
+Meeting:
+- Reminder of $$
+- T-Shirts
 - Functions
 - FidoIncreasing Challenge Project
+- Play [video](https://www.youtube.com/watch?v=L06uGnF4IpY) on arrays
