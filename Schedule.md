@@ -186,6 +186,22 @@ Preparation:
 Meeting:
 - Reminder of $$
 - T-Shirts
-- Functions
-- FidoIncreasing Challenge Project
 - Play [video](https://www.youtube.com/watch?v=L06uGnF4IpY) on arrays
+- Functions
+- Fido Function Challenge Project
+
+### 12/14 - No Meeting (Opportunities Day)
+
+### 12/15 - Max Gone. Matthias In Charge
+- Free Day
+
+### 12/19
+- Begin with presenting projects from Thursday
+- Play with lights on Raspberry Pi Monday
+  - flash on and off
+
+### 12/21
+- Binary Practice
+
+### 12/22
+- Minecraft fun
