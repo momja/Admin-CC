@@ -205,3 +205,21 @@ Meeting:
 
 ### 12/22
 - Minecraft fun
+
+### 01/04
+- Work on Binary Addition
+- Teach on Classes, Methods, Objects
+
+### 01/05
+- RM 307
+- Talk about movie night
+- Repeat last meeting [Video](https://youtu.be/4xKihjI6HJ0)
+- Include classes challenge project
+  - Form groups for seven continents
+  - Each animal must be its own class with characteristics - (animal_name, species_name, age, gender, custom method relevant to the animal)
+
+### 01/11
+- RM 115
+- Function practice again
+- Classes again
+- Polymorphism??
