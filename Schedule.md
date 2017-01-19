@@ -223,3 +223,11 @@ Meeting:
 - Function practice again
 - Classes again
 - Polymorphism??
+
+### 01/19
+- RM 307
+- Reminder of movie night
+- Dont forget! Turn in your $5!
+- Codecademy.com -> java
+- Ask Max or Matthias if you need help
+- Explain that this can be used for any language
